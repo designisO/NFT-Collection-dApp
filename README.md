@@ -1,5 +1,7 @@
 # NFT Collection dApp
 
+<img src="https://github.com/designisO/NFT-Collection-dApp/blob/main/Screenshot%20(47).png">
+
 ## Description
 
 In this project I was able to create a NFT Collection dApp. In this project the recommendations were as follows:
