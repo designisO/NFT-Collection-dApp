@@ -1,15 +1,34 @@
-# Basic Sample Hardhat Project
+# NFT Collection dApp
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+## Description
 
-Try running some of the following tasks:
+In this project I was able to create a NFT Collection dApp. In this project the recommendations were as follows:
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+- There should only exist 20 Crypto Dev NFT's and each one of them should be unique.
+
+- User's should be able to mint only 1 NFT with one transaction.
+Whitelisted users, should have a 5 min presale period before the actual sale where they are guaranteed 1 NFT per transaction.
+
+- There should be a website for your NFT Collection.
+
+
+The dapp was created using Nextjs, Alchemy API and hardhat for contract deployement. 
+
+
+## Getting Started
+
+### Dependencies
+
+* Nextjs
+* Hardhat Framework
+* Alchemy API (alchemy.io)
+* Web3Modal (https://github.com/Web3Modal/web3modal)
+
+
+## Authors
+
+Contributors names and contact info
+
+Orion F.
+(DesignIsOrion)
+(BlockchainO)
